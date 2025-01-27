@@ -1,0 +1,18 @@
+div{
+    background-color: bisque;
+    width: 400px;
+    display: inline-block;
+    padding: 10px;
+}
+
+.second{
+    white-space: nowrap;
+    word-break:break-all;
+    overflow: hidden;
+}
+.third{
+    white-space: nowrap;
+    word-break:break-all;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

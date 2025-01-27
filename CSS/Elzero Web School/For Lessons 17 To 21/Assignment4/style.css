@@ -1,0 +1,12 @@
+a{
+    font-size: 400px;
+    text-transform: capitalize;
+    text-align: center;
+    background-color: rgb(19, 132, 49);
+    text-decoration: none;
+    padding: 100px;
+    border-bottom: 100px solid rgb(1, 42, 1);
+    color: rgb(225, 211, 211);
+    font-style: normal;
+    
+}
