@@ -1,0 +1,19 @@
+div{
+    border: 5px solid red;
+    padding: 10px;
+    margin: auto;
+    width: 400px;
+}
+
+
+p{
+    border: inherit;
+    padding: inherit;
+    margin: inherit;
+    background-color: violet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    text-align: center;
+    width: inherit-90px;
+}
